@@ -1,0 +1,46 @@
+body {
+
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+  }
+li {
+    display: inline;
+    padding: 50px;
+    
+  }
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+}
+.logo {
+    width: 23%;
+    padding: 1%;
+    text-align: center;
+}
+nav {
+    width: 73%;
+    padding: 1%
+}
+ul {
+    width: 60%;
+    margin-left: auto;
+    padding: 25px;
+}
+
+.heroImg {
+    height: 600px;
+    padding: 25px;
+}
+.content {
+    width: 500px;
+    margin: 0 auto;
+}
+footer {
+    background-color: #373738;
+    color: white;
+    ul {
+        inline-block;
+        vertical-align: top;
+    }
+}
+
